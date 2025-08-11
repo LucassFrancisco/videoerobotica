@@ -1,1 +1,6 @@
-
+body {
+  color: white; /*deixa o texto branco*/
+  background: black; /*deixa o fundo preto*/
+  font-family: "Chakra Petch", sans-serif; /*usa a fonto "Chakra Petch" ou se não tiver, usa "sans-serif"*/
+  margin-bottom: 100px; /*adiciona 100px de espaço no final da página*/
+}
