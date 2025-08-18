@@ -6,5 +6,5 @@ body {
   margin-bottom: 100px; /* adiciona 100px de espaço invisivel na parte de baixo da pagina */
 }
 header {
-  justify-content: end;
+  justify-items: end;
 }
