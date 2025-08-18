@@ -5,6 +5,3 @@ body {
   font-family: "Chakra Petch", sans-serif; /* usa a fonte "Chakra Petch" ou se não tiver, usa "sans-serif" */
   margin-bottom: 100px; /* adiciona 100px de espaço invisivel na parte de baixo da pagina */
 }
-header {
-  justify-items: end;
-}
