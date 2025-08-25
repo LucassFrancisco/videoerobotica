@@ -7,21 +7,21 @@ body {
 }
 
 .chamada {
-  background: rgb(184, 156, 213);
-  padding-bottom: 80px;
-  padding-top: 80px;
-  display: flex;
-  justify-content: center;
+  background: rgb(184, 156, 213); /* define a cor de fundo da classe chamada para lilas */
+  padding-bottom: 80px; /* Vai ter 80px de espaço embaixo do conteúdo */
+  padding-top: 80px; /* Vai ter 80px de espaço em cima do conteúdo */
+  display: flex; /* Usando o estilo "flexbox", que ajuda a organizar os elementos dentro dessa área */
+  justify-content: center; /* Vai colocar o conteúdo bem no centro, horizontalmente */
 }
 
 .chamada-texto {
-  margin-right: 5%;
+  margin-right: 5%; /* Vai deixar um espaço de 5% do tamanho da tela à direita desse texto */
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 40px; /* O tamanho da fonte dos títulos (h1) vai ser 40px */
 }
 
 p {
-  font-size: 20px;
+  font-size: 20px; /* O tamanho da fonte dos parágrafos (p) vai ser 20px */
 }
