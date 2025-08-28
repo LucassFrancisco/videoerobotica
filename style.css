@@ -6,6 +6,13 @@ body {
   margin-bottom: 100px; /* adiciona 100px de espaço invisivel na parte de baixo da pagina */
 }
 
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(42, 122, 228)
+}
+
 .chamada {
   background: rgb(184, 156, 213); /* define a cor de fundo da classe chamada para lilas */
   padding-bottom: 80px; /* Vai ter 80px de espaço embaixo do conteúdo */
@@ -25,3 +32,16 @@ h1 {
 p {
   font-size: 20px; /* O tamanho da fonte dos parágrafos (p) vai ser 20px */
 }
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 50px;
+}
+
